@@ -1,24 +1,28 @@
-// 用于加载的
-
 var fs = require("fs");
 var globalConfig = require("./config");
 
-// var controllerSet = []; // 负责所有页面的请求
-var pathMap = new Map(); // 所有的url
+// 存放的是所有的controller
+var controllerSet = [];
 
-var files = fs.readdirSync(globalConfig["web_path"]); // 读路径
+// 这个是所有的controller中的路径的汇总
+var pathMap = new Map();
+
+// 通过读取web的路径，路径存放在全局配置中(从一个文件夹中读出所有文件名字)
+var files = fs.readdirSync(globalConfig["web_path"]);
 
 for (var i = 0; i < files.length; i++) {
-    var temp = require("./" + globalConfig["web_path"] + "/" + files[i]);
-    if (temp.path) { // 不同的框架和不同的公司不同的约定,这里我们约定有path的是controller
-        for (var [key, value] of temp.path) { // 遍历map
-            if (pathMap.get(key) == null) {
-                pathMap.set(key, value);
+    // 拼接出文件的路径来
+    // temp存放的是引入的文件的导出的路径的map
+    var temp = require("./" + globalConfig["web_path"] + "/"  + files[i]);
+    if (temp.path) { // 判断导入的这个文件是否导出了path
+        for (var [key, value] of temp.path) { // 迭代器，遍历出值
+            if (pathMap.get(key) == null) { // 判断本地的pathMap中是否存放了这个url了
+                pathMap.set(key, value); // 如果没存过了就存进去,一个url只能交给一个方法处理
             } else {
-                throw new Error("url path异常," + key)
+                throw new Error("url path 异常, url: " + key);
             }
+            controllerSet.push(temp);
         }
-        // controllerSet.push(temp);
     }
 }
 module.exports = pathMap;
