@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1b2a8ad-d333-4e3a-895d-123f027dd5d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/icon-ext.png" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/loading-0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/loading-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/modules/layer/default/loading-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/css/view.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/css/view.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/ai.eot" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/ai.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/ai.svg" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/ai.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/ai.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/ai.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/ai.woff" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/ai.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/font/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/font/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/0.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/0.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/12.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/13.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/13.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/14.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/14.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/15.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/15.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/17.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/17.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/18.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/19.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/19.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/20.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/20.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/21.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/21.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/22.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/22.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/23.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/23.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/24.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/24.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/25.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/25.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/26.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/26.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/27.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/27.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/28.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/28.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/29.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/29.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/30.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/30.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/31.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/31.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/32.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/32.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/33.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/33.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/34.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/34.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/35.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/35.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/36.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/36.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/37.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/37.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/38.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/38.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/39.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/39.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/40.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/40.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/41.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/41.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/42.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/42.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/43.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/43.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/44.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/44.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/45.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/45.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/46.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/46.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/47.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/47.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/48.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/48.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/49.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/49.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/50.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/50.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/51.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/51.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/52.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/52.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/53.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/53.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/54.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/54.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/55.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/55.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/56.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/56.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/57.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/57.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/58.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/58.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/59.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/59.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/60.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/60.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/61.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/61.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/62.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/62.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/63.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/63.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/64.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/64.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/65.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/65.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/66.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/66.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/67.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/67.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/68.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/68.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/69.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/69.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/70.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/70.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/71.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/71.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/face/9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/face/9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/images/图表.png" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/images/图表.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/js/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/assets/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/assets/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/console.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/console.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/form_set/attribute_set.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/form_set/attribute_set.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/form_set/color_set.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/form_set/color_set.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/form_set/graph_select.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/form_set/graph_select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/operaterule.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/operaterule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1/views/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/views/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/StudentController.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/StudentController.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/StudentController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/loader.js" />
+        <option value="$PROJECT_DIR$/dao/DButil.js" />
+        <option value="$PROJECT_DIR$/dao/studentDao.ts" />
+        <option value="$PROJECT_DIR$/dao/studentDao.js" />
+        <option value="$PROJECT_DIR$/dao/StudentDao.js" />
+        <option value="$PROJECT_DIR$/log.js" />
+        <option value="$PROJECT_DIR$/log/server.log" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/web/StudentController.js" />
+        <option value="$PROJECT_DIR$/server.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="546" />
+    <option name="y" value="113" />
+    <option name="width" value="897" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="automaticReportSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automaticReportSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automaticReportSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automaticReportSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automaticReportSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automaticReportSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automaticReportSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automaticReportSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../express/1为啥要用/NodeLess7" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="D:\webstorm\install\WebStorm 2018.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="StudentController.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/StudentController.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="config.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/config.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="loader.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/loader.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.StudentController.js" />
+        <item itemvalue="Node.js.loader.js" />
+        <item itemvalue="Node.js.config.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b2a8ad-d333-4e3a-895d-123f027dd5d1" name="Default Changelist" comment="" />
+      <created>1549849258376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549849258376</updated>
+      <workItem from="1549849261099" duration="8904000" />
+      <workItem from="1549967634666" duration="410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9314000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35409835" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24713585" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dao/studentDao.ts" />
+    <entry file="file://$PROJECT_DIR$/dao/StudentDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/DButil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/StudentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/server.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

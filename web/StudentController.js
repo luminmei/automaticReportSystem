@@ -22,9 +22,5 @@ function getStudentPage(request, response) {
 }
 path.set("/getStudentPage", getStudentPage);
 
-function getData() {
-
-}
-path.set("/getData", getData);
 // 是为了等下别人引入的时候判断是否导出了这个path
 module.exports.path = path;

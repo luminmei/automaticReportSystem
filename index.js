@@ -34,7 +34,7 @@ http.createServer(function (request, response) {
                response.end();
           } catch(e) {
                response.writeHead(404);
-               response.write("<html><body><h1>404 NotFound</h1</body></html>");
+               response.write("<html><body><h1>404 NotFound</h1></body></html>");
                response.end();
           }
      } else {
